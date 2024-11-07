@@ -42,7 +42,7 @@ A interface segue um layout minimalista para garantir usabilidade:
 ## ``Requisitos para Execução``
  
 - **``Navegador Web``**: A aplicação pode ser executada diretamente em navegadores modernos com suporte a JavaScript.
-- **``Chave de API``**: Insira a chave de API no código JavaScript para ativar a funcionalidade de câmbio em tempo real.
+- **``Chave de API``**: Insira a chave de API no código JavaScript para ativar a funcionalidade de câmbio em tempo real. 
  
 ## ``RESULTADO``:
 ![](img/Gravando.gif)
