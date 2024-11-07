@@ -39,7 +39,7 @@ A interface segue um layout minimalista para garantir usabilidade:
 - Uso de cores contrastantes para facilitar a navegação.
 - Botões bem visíveis para a conversão e reset dos campos.
  
-## ``Requisitos para Execução``
+## ``Requisitos para Execução``      
  
 - **``Navegador Web``**: A aplicação pode ser executada diretamente em navegadores modernos com suporte a JavaScript.
 - **``Chave de API``**: Insira a chave de API no código JavaScript para ativar a funcionalidade de câmbio em tempo real. 
